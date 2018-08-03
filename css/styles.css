@@ -1,0 +1,73 @@
+
+.navbar {
+  background: #ffb798;
+  font-family: 'Special Elite', cursive;
+  margin-bottom: 8px;
+  margin-top: 0;
+  width:100%;
+  border-radius: 10px;
+}
+.navbar-brand {
+  margin-top: 0;
+}
+
+.nav {
+  font-size: 16px;
+}
+
+.navbar-brand h1:hover {
+   color: #f8ff80;
+}
+
+.index-hero {
+  background-image: url('../img/book-backgorund.jpg');
+  background-attachment: fixed;
+  position: relative;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.overlay-yellow:before {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color:rgba(255,230,154,.6);
+}
+
+
+.footer-section {
+  background-color: #ffb798;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: #ffffff;
+  margin-top: 8px;
+}
+
+.footer-social {
+  text-align: center;
+}
+.footer-social a {
+  color: #ffb798;
+}
+.footer-social a:hover {
+  color: #f9d874;
+}
+
+@media screen and (min-width:768px) {
+
+}
+@media screena and (min-width:992px) {
+
+}
+@media screen and (min-width:1200px){
+
+}
+#ffb798	(255,183,152)
+#ffe69a	(255,230,154)
+#f8ff80	(248,255,128)
+#f9d874	(249,216,116)
+#f0ac73 (240,172,115)
+font-family: 'Special Elite', cursive;
